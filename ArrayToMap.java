@@ -32,6 +32,7 @@ public class ArrayToMap {
 			map.put(num, names[i]);
 			num++;
 		}
+		//Ok
 		return map;
 	}
 }
